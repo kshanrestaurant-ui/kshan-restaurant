@@ -276,13 +276,13 @@ export default function MenuPage() {
 
       {/* Hero Header */}
       <section className="relative h-[50vh] flex items-center justify-center overflow-hidden">
-        <Image 
+        {/*<Image 
           src="/home/menu.png" 
           alt="Menu Header" 
           fill 
           priority
           className="object-cover opacity-90" 
-        />
+        />*/}
         <div className="absolute inset-0 bg-black/40" />
         <div className="relative z-10 text-center text-white mt-10">
           <span className="text-white font-bold tracking-[0.2em] uppercase text-sm mb-4 block animate-fade-in">
