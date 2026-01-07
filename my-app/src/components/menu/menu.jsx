@@ -9,18 +9,20 @@ import { Tag, Clock, ArrowRight } from "lucide-react"; // Make sure to install l
 const currentOffers = [
   {
     id: 1,
-    title: "Unlimited Thali Tuesday",
-    desc: "Get unlimited rice and solkadi refills with any Non-Veg Thali.",
-    code: "TUESDAYFEAST",
+    title: "Buy 2 get 1 chicken thali on every Tuesday and Thursday",
+    desc: "Get 1 chicken thali free on 2 chicken thali.",
+    code: "No code",
     tag: "Weekly Special",
     color: "bg-orange-50 border-orange-100 text-orange-900"
   },
+
+
   {
     id: 2,
-    title: "Weekend Family Pack",
-    desc: "Flat 15% OFF on all orders above ₹1500. Perfect for family dinners.",
-    code: "FAMILY15",
-    tag: "Limited Time",
+    title: "Non-veg Popti Special",
+    desc: "Seasonal Offer",
+    code: "No code",
+    tag: "Limited till 15 Jan 2026",
     color: "bg-stone-100 border-stone-200 text-stone-900"
   }
 ];
