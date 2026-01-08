@@ -4,22 +4,22 @@ const menuItems = [
   {
     title: "Mutton Thali",
     description: "A fiery Maharashtrian feast featuring tender mutton sukka, mutton kheema,  authentic rassa, and soft bhakri.",
-    image: "/home/mutton-thali.jpg", 
+    image: "/home/mutton-thali.jpeg", 
   },
   {
     title: "Surmai Biryani",
     description: "A coastal delicacy—fresh Kingfish marinated in spices, layered with aromatic basmati rice.",
-    image: "/home/surmai-biryani.jpg", 
+    image: "/home/surmai-biryani.jpeg", 
   },
   {
     title: "Ukadiche Modak",
     description: "Handcrafted steamed Modak stuffed with sweet coconut, jaggery, and cardamom, served warm with pure ghee.",
-    image: "/home/modak.jpg", 
+    image: "/home/modak.jpeg", 
   },
   {
     title: "Anapurna Thali",
     description: "A divine vegetarian spread featuring seasonal vegetables, dal, rice, solkadhi, and traditional sweets.",
-    image: "/home/anapurna-thali.jpg", 
+    image: "/home/anapurna-thali.jpeg", 
   },
   {
     title: "Masvadi Thali",
