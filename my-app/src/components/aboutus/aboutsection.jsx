@@ -105,7 +105,7 @@ export default function AboutPage() {
                 name: "Sonam Dongre",
                 role: "Founder & Owner",
                 img: "/about/sonam-d.jpeg",
-                instagram: "https://www.instagram.com/sonam_dongre", // Update with real link
+                instagram: "https://www.instagram.com/hey_coach.ssonam?igsh=N2Y3eGxoaTV0djB0", // Update with real link
                 about:
                   "I am a certified fitness coach and nutritionist with over 8 years of experience in the health and wellness industry—an experience that taught me discipline, consistency, and the value of hard work. My mother’s love for cooking inspired our family to start a small misal restaurant. With time, dedication, and passion, it grew beyond just a single dish. My brother Prathamesh and his friend Rohit later took charge of continuing and strengthening this journey, with my constant support. Yet, we always felt the urge to create something bigger—something truly our own. That defining moment became “Kshan.” Kshan is not just a restaurant; it is a reflection of passion, family values, and the belief that every great journey begins with one meaningful moment.",
               },
