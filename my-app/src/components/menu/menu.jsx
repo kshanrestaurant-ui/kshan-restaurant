@@ -157,7 +157,7 @@ const menuItems = {
     { name: "Chicken Handi", price: "575", type: "non-veg" },
     { name: "Mutton Handi", price: "990", type: "non-veg" },
   ],
-  sea_main: [
+  Sea_main: [
     { name: "Pomfret Masala", price: "695", type: "non-veg" },
     { name: "Pomfret Curry", price: "655", type: "veg" },
     { name: "Pomfret Green Masala", price: "695", type: "veg" },
