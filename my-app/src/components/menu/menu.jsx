@@ -111,7 +111,7 @@ const menuItems = {
     { name: "Mutton Thali", price: "560", desc:"Mutton Sukka, Mutton Rassa, Egg Masala, kheema, rice, 2 chapati/ 1 bhakri/4 vade, solkadi, chutney/ thecha, salad, papad", type: "non-veg" },
     { name: "Egg Thali", price: "280", desc:"Egg Sukka, Egg curry, Egg burji, rice, 2 chapati/ 1 bhakri/4 vade, solkadi, chutney/ thecha, salad,papad", type: "non-veg" },
   ],
-  fish_thali: [
+  Fish_thali: [
     { name: "Pomfret Thali", price: "645", desc:"Pomfret fry, fish curry, sukkat, sukkhe bombil, rice, 2 chapati / 1 bhakri / 4 vade, solkadhi, chutney / thecha, salad.", type: "non-veg" },
     { name: "Surmai Thali", price: "575", desc:"Surmai fry, fish curry, sukkat, sukkhe bombil, rice, 2 chapati / 1 bhakri / 4 vade, solkadhi, chutney / thecha, salad.", type: "non-veg" },
     { name: "Halwa Thali", price: "645" , desc:"Halwa fry, fish curry, sukkat, sukkhe bombil, rice, 2 chapati / 1 bhakri / 4 vade, solkadhi, chutney / thecha, salad.", type: "non-veg" },
