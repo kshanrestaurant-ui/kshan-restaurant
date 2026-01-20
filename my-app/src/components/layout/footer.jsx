@@ -106,7 +106,7 @@ export default function Footer() {
                 aria-label="Instagram"
                 className="w-max h-10 rounded-full bg-stone-900 flex items-center justify-center hover:bg-[#b65c3a] hover:text-white transition-all duration-300 border border-stone-800"
               >
-                <span className="text-sm p-2 font-bold">Instagram</span>
+                <img src="/logo/kshan.png" className="h-10 rounded-full" alt="@kshan.restaurant" />
               </a>
             </div>
           </div>
