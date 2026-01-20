@@ -140,7 +140,7 @@ export default function SocialProof() {
           {/* 'Show More' Button */}
           <div className="mt-20 text-center">
             <a
-              href="https://maps.google.com" 
+              href="https://maps.app.goo.gl/8LqtaLPJeMstPi646" 
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block border-b border-amber-500 text-amber-500 pb-1 hover:text-amber-400 hover:border-amber-400 transition-colors text-sm font-bold tracking-widest uppercase"
@@ -185,12 +185,7 @@ export default function SocialProof() {
                >
                  Follow @kshan.restaurant
                </a>
-               <button 
-                  onClick={handleNextInsta}
-                  className="px-8 py-4 bg-white border border-stone-200 text-stone-900 font-bold rounded-xl hover:bg-stone-50 transition-all shadow-sm flex items-center justify-center gap-2 lg:hidden"
-               >
-                 Next Photo →
-               </button>
+               
              </div>
           </div>
 
@@ -270,7 +265,12 @@ export default function SocialProof() {
 
             </div>
           </div>
-
+          <button 
+                  onClick={handleNextInsta}
+                  className="px-8 py-4 bg-white border border-stone-200 text-stone-900 font-bold rounded-xl hover:bg-stone-50 transition-all shadow-sm flex items-center justify-center gap-2 lg:hidden"
+               >
+                 Next Photo →
+          </button>
         </div>
       </section>
 
