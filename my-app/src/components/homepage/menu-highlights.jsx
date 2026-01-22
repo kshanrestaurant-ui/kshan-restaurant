@@ -24,7 +24,7 @@ const menuItems = [
   {
     title: "Masvadi Thali",
     description: "A rustic specialty—spicy stuffed gram flour rolls served with bhakri.",
-    image: "/home/masvadi.jpeg", 
+    image: "/home/masvadi-thali-image.jpeg", 
   },
 ];
 
