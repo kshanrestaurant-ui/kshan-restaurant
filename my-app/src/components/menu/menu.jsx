@@ -17,14 +17,14 @@ const currentOffers = [
   },
 
 
-  {
-    id: 2,
-    title: "Non-veg Popti Special",
-    desc: "Seasonal Offer",
-    code: "No code",
-    tag: "Limited till 15 Jan 2026",
-    color: "bg-stone-100 border-stone-200 text-stone-900"
-  }
+  // {
+  //   id: 2,
+  //   title: "Non-veg Popti Special",
+  //   desc: "Seasonal Offer",
+  //   code: "No code",
+  //   tag: "Limited till 15 Jan 2026",
+  //   color: "bg-stone-100 border-stone-200 text-stone-900"
+  // }
 ];
 
 // --- DATA FROM PDF (With Veg/Non-Veg Tags) ---
